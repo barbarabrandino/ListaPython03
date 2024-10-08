@@ -2,7 +2,7 @@ print("Bárbara Helena Preto Brandino \n RA:1051392421024 \n Curso: DSM")
 print()
 
 # Senha para acesso do professor
-senha_professor = "senha123"  
+senha_professor = "fatec2024"  
 
 # Autenticação do professor
 senha_informada = input("Digite a senha do professor: ")

@@ -6,8 +6,7 @@ altura = float(input("Digite sua altura em m: "))
 sexo = input("Digite seu sexo (masculino/feminino): ").lower()
 
 # Calcula o  IMC
-altura_metros = altura / 100  
-imc = peso / (altura_metros ** 2)
+imc = peso / (altura ** 2)
 
 # Calcula o peso ideal
 if sexo == 'masculino':
